@@ -6,6 +6,7 @@ if [ "$EUID" -ne 0 ]; then
   exit 1
 fi
 
+apt update 
 # ปิดใช้งาน SSH ก่อน
 systemctl stop ssh
 systemctl disable ssh
