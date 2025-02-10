@@ -6,4 +6,5 @@
 <h3>> Debian ? (default)</h3>
 <h3>> Kali ✔ (cloud)</h3>
 <h3>> Debian ✔ (cloud)</h3>
+<h2>Curl Command</h2>
 <p>curl -sL https://raw.githubusercontent.com/oomplay/ssh-password/refs/heads/main/ssh-password.sh | bash</p> 
